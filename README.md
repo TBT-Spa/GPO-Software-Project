@@ -1,2 +1,2 @@
 # GPO-Software-Project
-Modifiche Readme
+Barberio Gaia, Tosetti Davide & Tutino Marco
